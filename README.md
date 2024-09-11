@@ -4,6 +4,10 @@
 
 This project dives into **financial analytics**, with a focus on **market capitalization** and **quarterly sales** of leading companies. Throughout the project, I applied skills in **data cleaning**, **exploratory data analysis (EDA)**, and **statistical analysis** to uncover valuable insights.
 
+## 🔗 Google Colab Link
+
+[Access the project on Google Colab]([https://colab.research.google.com/drive/1QZVmFvnZqjUeJVBJsguVG41H8yBtNd4C?usp=sharing])
+
 ## 📝 Project Overview
 
 The main objectives of this project include:
