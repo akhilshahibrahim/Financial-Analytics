@@ -6,7 +6,7 @@ This project dives into **financial analytics**, with a focus on **market capita
 
 ## 🔗 Google Colab Link
 
-[Access the project on Google Colab]([https://colab.research.google.com/drive/1QZVmFvnZqjUeJVBJsguVG41H8yBtNd4C?usp=sharing])
+[Access the project on Google Colab](https://colab.research.google.com/drive/1QZVmFvnZqjUeJVBJsguVG41H8yBtNd4C?usp=sharing)
 
 ## 📝 Project Overview
 
